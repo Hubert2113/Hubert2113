@@ -1,0 +1,38 @@
+body{
+	font-family: Helvetica;
+}
+.baner{
+	background-color: DarkCyan;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+.form{
+	background-color: LightSeaGreen;
+	text-align: center;
+	padding: 60px;
+}
+.left,
+.mid{
+	background-color: Teal;
+	color: white;
+	text-align: center;
+	height: 350px;
+	width: 25%;
+	float: left;
+}
+.right{
+	width: 50%;
+	height: 350px;
+	float: right;
+	background-color: Teal;
+}
+.footer{
+	background-color: DarkCyan;
+	color: white;
+	padding: 40px;
+	clear: both;
+}
+ol{
+	border: 4px dotted rgb(127,255,212)
+}
