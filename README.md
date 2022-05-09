@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hubert Tumialis
-- 👀 I’m interested in shooting with guns on shooting range
-- 🌱 I’m currently learning JavaScript to become full-stack developer
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in fitness, games and movies
+- 🌱 I’m currently learning JavaScript, react and node.js to become fullstack frontend developer
 - 📫 How to reach me: 
   - email: htumialiss@gmail.com
